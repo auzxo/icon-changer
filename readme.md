@@ -1,6 +1,6 @@
 # lol icon changer
 
-[dl](https://github.com/auzxo/icon-changer/releases/download/1/Summoner.Icon.change.zip)
+[dl](https://github.com/auzxo/icon-changer/releases/download/1/Summoner.Icon.Changer.zip)
 
 ## how to use
 * start league and login
