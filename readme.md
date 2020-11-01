@@ -1,12 +1,9 @@
 # lol icon changer
 
 ## how to use
-* start program
-* input the id into the text field
-* click 'set'
+* start league and login
+* click whichever icon u want to use
 
-it doesnt matter if u open league first or last
+u have to have league open before u launch
 
-type in icon id and click 'set'
-
-icon ids r in the folder i wouldve made a nicer ui but im lazy ;v
+i wouldve made a nicer ui but im lazy ;v
